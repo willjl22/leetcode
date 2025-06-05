@@ -6,7 +6,6 @@ import java.util.Scanner;
  * @version 7.22
  */
 public class PalNum
-
 {
     /**
      * @param x the number being checked as a palindrome
