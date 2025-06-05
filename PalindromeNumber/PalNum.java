@@ -3,7 +3,7 @@ import java.util.Scanner;
  * Given an integer x, return true if x is a palindrome, and false otherwise.
  *
  * @author willjl22
- * @version 7.22
+ * @version 7.22.24
  */
 public class PalNum
 {

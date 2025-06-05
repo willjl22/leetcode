@@ -13,7 +13,7 @@ import java.util.Scanner;
  * You can return the answer in any order.
  *
  * @author willjl22
- * @version 7.22
+ * @version 7.22.24
  */
 public class TwoSum
 {
